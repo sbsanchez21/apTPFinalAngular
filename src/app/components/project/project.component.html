@@ -1,0 +1,32 @@
+<div class="m-2 p-3 border border-dark rounded-3">
+    <div class="fs-4 my-2">Proyectos</div>
+
+    <div *ngFor="let proj of miPorfolio.projects">
+        <div id="expBackEnd" class="row m-b3">
+            <div class="col-11">
+                <div class="row mb-2">
+                    <div class="col-10 ">
+                        <div class="fs-5">{{proj.name}}</div>
+                        <input type="text" id="inputCargo" class="form-control" style="display: block;" [(ngModel)]="proj.name">
+
+                        <div class="text-secondary fs-6">{{proj.description}}</div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-1 text-center">
+                <i class="bi bi-plus-lg"></i>
+                <br>
+                <i class="bi bi-pencil-fill"></i>
+
+                <a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="expBackEnd">
+                    <i class="bi bi-trash-fill"></i>
+                </a>
+                
+                
+            </div>
+        </div>
+    </div>
+
+</div>
+
