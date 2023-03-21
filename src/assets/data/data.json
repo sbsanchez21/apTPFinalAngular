@@ -1,8 +1,8 @@
 {
-	"name": "Manuel Sadosky Sanchez",
+	"name": "Manuel Sadosky Roriguez",
 	"backImage": "https://png.pngtree.com/thumb_back/fw800/background/20190223/ourmid/pngtree-black-shading-red-shard-geometry-banner-background-shadingred-debrisred-glowgeometry-image_80184.jpg",
 	"image": "https://i2.wp.com/imagenes.milenio.com/E-yJnq9EhkZhWaU7T_2utkyTymQ=/958x596/smart/https://www.milenio.com/uploads/media/2018/10/05/steve-jobs-perdio-vida-consecuencia_0_199_1193_742.jpg?w=640&ssl=1",
-	"position": "Informático en el CONICET",
+	"position": "Desarrollador en el CONICET",
 	"company": {
 		"name": "CONICET",
 		"img": "https://es.wikipedia.org/wiki/Consejo_Nacional_de_Investigaciones_Cient%C3%ADficas_y_T%C3%A9cnicas_(Argentina)#/media/Archivo:Conicet_Logo_con_letras.png",
@@ -49,7 +49,7 @@
 		{
 			"school": "Centro de Enseñanza Técnica Industrial",
 			"title": "Tecnologo",
-			"img": "https://media-exp1.licdn.com/dms/image/C560BAQEUHhax7RCj0A/company-logo_100_100/0/1584819716706?e=1637798400&v=beta&t=4UkXYz39PCtn4PqDYbwXZNWPSC3MgoHckfDfqQLBlHc",
+			"img": "https://i.ibb.co/bB0gzmc/pixar.webp",
 			"career": "Desarrollo de Software",
 			"score": 82,
 			"start": "2014",
@@ -58,7 +58,7 @@
 		{
 			"school": "Escuela Secundaria Técnica 14",
 			"title": "Técnico",
-			"img": "https://media-exp1.licdn.com/dms/image/C4E0BAQFhOoraRhsOSQ/company-logo_100_100/0/1590421269154?e=1637798400&v=beta&t=gyinTA0GPG1xIBDPj01L33mQHcdOdyMOdpoRHY640Pc",
+			"img": "https://scontent.feze7-1.fna.fbcdn.net/v/t39.30808-1/301120104_457229933086089_47174366017888917_n.jpg?stp=c36.0.200.200a_dst-jpg_p200x200&_nc_cat=106&ccb=1-7&_nc_sid=c6021c&_nc_ohc=wAk2aGJUW3wAX_G4sxM&_nc_ht=scontent.feze7-1.fna&oh=00_AfA2vD0Os1KHaNeXUWAQIpnSk7YKfhyqmlIpWjpImK7z3A&oe=641DECAC",
 			"career": "Electronica, comunicacion y sistemas de control",
 			"score": 0,
 			"start": "2012",
