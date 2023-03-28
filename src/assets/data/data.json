@@ -65,21 +65,14 @@
 			"end": "2014"
 		}
 	],
-	"aptitudes": [{
+	"aptitudes": [
+		{
 			"name": "Resolución de problemas",
-			"progress": 75,
-			"confirms": 2,
-			"confirmsNames": [{
-				"name": "Nikolai Emmanuel Bayro Jablonski"
-			}]
+			"progress": 75
 		},
 		{
 			"name": "Diseño de Sistemas",
-			"progress": 50,
-			"confirms": 3,
-			"confirmsNames": [{
-				"name": "Nikolai Emmanuel Bayro Jablonski"
-			}]
+			"progress": 80
 		}
 	],
 	"achivements": [{
